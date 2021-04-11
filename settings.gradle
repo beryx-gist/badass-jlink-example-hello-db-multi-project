@@ -1,0 +1,3 @@
+rootProject.name = 'hello-db-multi-project'
+
+include 'app-main', 'app-h2', 'app-hsqldb'
